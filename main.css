@@ -10,6 +10,10 @@ main {
 
 }
 
+#div>div>img {
+    border-radius: 50% 5%;
+}
+
 #h4 {
     border-left: 4px solid yellow;
     padding: 10px;
