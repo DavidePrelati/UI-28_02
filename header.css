@@ -1,0 +1,18 @@
+header {
+    font-family: "Oswald", sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+header p {
+    background-color: bisque;
+
+    padding: 10px;
+}
+
+.span-header {
+    font-weight: 700;
+
+}

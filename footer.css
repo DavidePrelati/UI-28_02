@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+footer {
+    font-family: "Oswald", sans-serif;
+    width: 50%;
+    margin-left: 28%;
+    margin-right: auto;
+    text-align: left;
+}
