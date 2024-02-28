@@ -4,10 +4,15 @@
 main {
     font-family: "Oswald", sans-serif;
     width: 50%;
-    margin-left: 28%;
+    margin-left: 30%;
     margin-right: auto;
     text-align: left;
 
+}
+
+#h4 {
+    border-left: 4px solid yellow;
+    padding: 10px;
 }
 
 #div>p {
@@ -16,6 +21,10 @@ main {
 
 .aside1>h4 {
     color: red;
+}
+
+.h2 {
+    border-bottom: 4px solid skyblue;
 }
 
 #span-focaccia {
